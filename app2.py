@@ -9,9 +9,9 @@ st.title("🏏 IPL Live Score Dashboard")
 # API KEYS
 # =========================
 
-CRICAPI_KEY = "edcd6c11-5b5c-4ff5-8af0-dff49337b874"
+CRICAPI_KEY = "YOUR_API_ID"
 
-RAPIDAPI_KEY = "bae4d718ffmsh4a4f8352d595259p1e6d33jsn9f4d849c7e1b"
+RAPIDAPI_KEY = "YOUR_API_ID"
 
 # =========================
 # FUNCTION 1 → CricAPI
